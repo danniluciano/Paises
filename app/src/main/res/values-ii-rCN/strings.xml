@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">國家</string>
+    <string name="nome_pais">麵食</string>
+    <string name="feijoada_name">" 中國"</string>
+    <string name="nome_bandeira">" 麵食"</string>
+    <string name="nome_comida">" 中國"</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="smart_tam">200sp</dimen>
+    <dimen name="smart_image">200sp</dimen>
+    <dimen name="smart_image4">100sp</dimen>
+    <dimen name="image_tam">100sp</dimen>
+    <dimen name="tam_image">50sp</dimen>
+    <dimen name="tam_image">50sp</dimen>
+</resources>

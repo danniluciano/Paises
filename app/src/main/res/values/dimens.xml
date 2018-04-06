@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="smart_tam">100sp</dimen>
+    <dimen name="smart_size">24sp</dimen>
+    <dimen name="smart_image">100sp</dimen>
+    <dimen name="smart_image2">50</dimen>
+    <dimen name="smart_image3">50</dimen>
+    <dimen name="smart_image4">50sp</dimen>
+    <dimen name="text_size_h">30sp</dimen>
+    <dimen name="image_tam">30sp</dimen>
+    <dimen name="tam_Image">10sp</dimen>
+    <dimen name="tam_textsize">18sp</dimen>
+    <dimen name="tam_text_size">20sp</dimen>
+    <dimen name="textsize_tam">22sp</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">paesi</string>
+    <string name="nome_pais">Italia</string>
+    <string name="feijoada_name">Pizza</string>
+    <string name="nome_bandeira">Pizza</string>
+    <string name="nome_comida">Pizza</string>
+</resources>
